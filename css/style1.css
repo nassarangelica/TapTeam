@@ -1,0 +1,19 @@
+.blogs img{
+    height: 200px;
+    width: 100px;
+}
+.carousel-inner img{
+    height: 100vh;
+    object-fit: contain;
+}
+p{
+    text-align: center;
+    font-size: 25;
+    font-family: 'Times New Roman';
+}
+body{
+    background: rgba(56, 226, 133, 0.781);
+}
+.navbar-nav{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
